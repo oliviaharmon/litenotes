@@ -1,0 +1,8 @@
+.underline--magical {
+  background-image: linear-gradient(120deg, #adf2ca 0%, #adf2ca 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 1rem;
+  background-position: 0 90%;
+  transition: background-size 0.25s ease-in;
+}
+
